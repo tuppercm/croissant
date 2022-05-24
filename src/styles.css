@@ -1,12 +1,12 @@
 body {
-  background-color: navajowhite;
+  background-color: #fecea8;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 h1 {
   text-align: center;
-  color: rgb(9, 12, 45);
+  color: #45171d;
 }
 
 footer {
@@ -15,7 +15,7 @@ footer {
 }
 
 footer a {
-  color: white;
+  color: #ff847c;
   margin: auto 20px;
 }
 
@@ -27,5 +27,6 @@ img {
 }
 
 p {
+  color: #e84a5f;
   text-align: center;
 }
